@@ -1,8 +1,6 @@
 <h1 align="center">Yupp It's Me Prakash Mohit</h1>
 <h3 align="center">A passionate AI Engineer in Making</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrakashMohit" alt="PrakashMohit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prakash_mohit_" target="blank"><img src="https://img.shields.io/twitter/follow/prakash_mohit_?logo=twitter&style=for-the-badge" alt="prakash_mohit_" /></a> </p>
 
 - 🔭 I’m currently working on **LLM Architectures**
