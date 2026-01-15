@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **prakashmohit21x@gmail.com**
 
-- ⚡ Fun facts **People and Myself call me Polymath**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prakash_mohit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakash_mohit_" height="30" width="40" /></a> 
