@@ -124,7 +124,9 @@ def render(year: int, today: date, s: dict) -> str:
 
     tiles = [
         (f"{s['total']:,}", "CONTRIBUTIONS"),
-        (f"{s['commits']:,}", "COMMITS"),
+        # GitHub reports private activity only as one anonymous lump (restricted), never as
+        # commits, so say so instead of showing a commit count that doesn't add up to the total.
+        (f"{s['commits']:,}", "PUBLIC COMMITS" if s["private"] else "COMMITS"),
         (f"{s['prs']:,}", "PULL REQUESTS"),
         (f"{s['active_days']:,}", "ACTIVE DAYS"),
         (f"{s['current']:,}", "CURRENT STREAK"),
