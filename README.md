@@ -1,8 +1,12 @@
-# Prakash Mohit
+<img src="./assets/hero.svg" alt="Prakash Mohit. I can make it happen. A confused yet learning polymath in Prayagraj, India." width="100%">
 
-A confused yet learning polymath, based in Prayagraj, India.
+Give me a problem I don't know how to solve.<br>
+I'll learn what I need, figure out the architecture and build the first version.<br>
+Then I'll break it, debug it and ship it.
 
-I work on AI systems: language models, agents, vision, and the plumbing that makes them useful. I like taking a problem I don't know how to solve yet, learning what it needs, and building a first version I can break and fix.
+That's the skill I'm building.
+
+I work on AI systems: language models, agents, vision, and the plumbing that makes them useful. I'm most interested in the layer between *"the model can generate"* and *"the system can actually do."*
 
 ## Experience
 
@@ -19,20 +23,24 @@ I built automation and data tools around the placement workflow:
 
 Some of it is public: [Placement Intelligence Platform](https://github.com/PrakashMohit/Placement-Intelligence-Platform), [Scrapers for IIC](https://github.com/PrakashMohit/Scrapers-For-IIC), [BlueBook automation](https://github.com/PrakashMohit/IITM_BlueBook_Automation) and [email automation](https://github.com/PrakashMohit/IITM-Email_Automation).
 
-## What I'm working on
+## What I'm building
 
-- **[Whisper Piper Friday](https://github.com/PrakashMohit/AI_Agent-Whisper-Piper)**: a voice assistant that runs locally. Whisper for speech to text, Piper for speech, Ollama for the language model.
-- **Krishnos**: a personal LLM experiment. I'm trying to understand language models from the inside (training, inference, quantization) instead of treating them as black boxes.
-- **Robotic arm VLA**: how vision-language models can go from understanding a scene to controlling a physical arm.
-- **AI fashion system**: garment, try-on, styling and recommendation as one pipeline.
-- **AgentSec-RM**: security research for AI agents, treated as continuous state estimation instead of classifying one event at a time.
-- **[Automation](https://github.com/PrakashMohit/Scrapers-For-IIC)**: scraping, data processing, extraction and outreach workflows, so nobody has to do them by hand.
+- **[Whisper Piper Friday](https://github.com/PrakashMohit/AI_Agent-Whisper-Piper)**: a voice assistant that runs locally, around the loop perceive, think, act. Whisper for speech to text, Piper for speech, Ollama for the language model.<br>
+  `voice` `memory` `tools` `reasoning` `automation`
+- **Krishnos**: a personal LLM experiment. I'm trying to understand language models from the inside instead of treating them as black boxes.<br>
+  `transformers` `training` `inference` `quantization`
+- **Robotic arm VLA**: how vision-language models can go from understanding a scene to controlling a physical arm.<br>
+  `vision` `VLM` `VLA` `robotics`
+- **AI fashion system**: garment, try-on, styling and recommendation as one pipeline.<br>
+  `multimodal AI` `computer vision` `personalization`
+- **AgentSec-RM**: security research for AI agents, treated as continuous state estimation instead of classifying one event at a time.<br>
+  `agents` `telemetry` `transformers` `security`
+- **[Automation](https://github.com/PrakashMohit/Scrapers-For-IIC)**: scraping, data processing, extraction and outreach workflows, so nobody has to do them by hand.<br>
+  `python` `LLMs` `infrastructure`
 
-## Tools
+## What I build with
 
-Python, C++, JavaScript, HTML and CSS. PyTorch, TensorFlow, OpenCV, CUDA. Flask, FastAPI, React, Vue. SQLite, PostgreSQL. Docker, Linux, Git, Figma.
-
-Lately mostly LLMs, VLMs, RAG, agents and vLLM.
+<img src="./assets/stack.svg" alt="Tools I build with: focus areas (LLMs, VLMs, RAG, agents, vLLM), AI and ML (PyTorch, TensorFlow, OpenCV, NVIDIA, Ollama, pandas), languages (Python, C++, JavaScript, HTML, CSS), web and data (Flask, FastAPI, React, Vue, SQLite, PostgreSQL, Supabase), tooling (Docker, Linux, Git, GitHub, Selenium, Figma)." width="100%">
 
 ## This year on GitHub
 
@@ -41,3 +49,5 @@ Lately mostly LLMs, VLMs, RAG, agents and vLLM.
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/prakash-mohit-a59b71259) · [Instagram](https://www.instagram.com/prakash_mohit_/) · [prakashmohit21x@gmail.com](mailto:prakashmohit21x@gmail.com)
+
+*Build, break, learn, rebuild, ship.*
