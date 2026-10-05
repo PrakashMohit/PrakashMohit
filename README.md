@@ -1,76 +1,59 @@
-<!-- ===================== HERO ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=Prakash%20Mohit&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Agents%20%7C%20Robotics%20%7C%20LLMs&descAlignY=60&descSize=18" width="100%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=Prakash%20Mohit&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Agents%20%7C%20Robotics%20%7C%20LLMs&descAlignY=60&descSize=18" alt="Prakash Mohit — AI Systems | Agents | Robotics | LLMs" width="100%">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=PrakashMohit&style=for-the-badge&color=161b22&label=PROFILE+VIEWS"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=PrakashMohit&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://github.com/PrakashMohit?tab=followers"><img src="https://img.shields.io/github/followers/PrakashMohit?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=161b22" alt="GitHub followers"></a>
 
-<h2 align="center">⚡ I BUILD AI SYSTEMS THAT ACTUALLY DO THINGS.</h2>
+<h2>⚡ I BUILD AI SYSTEMS THAT ACTUALLY DO THINGS.</h2>
 
-<p align="center">
-  <i>I like taking ideas from <b>concept → architecture → code → infrastructure → reality.</b></i>
-</p>
+<i>I like taking ideas from <b>concept → architecture → code → infrastructure → reality.</b></i>
+
+</div>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 What I'm obsessed with</h3>
+### 🧠 What I'm obsessed with
 
-<pre>
+```text
 Artificial Intelligence
-        ↓
-    LLMs / VLMs
-        ↓
-      Agents
-        ↓
- Tools + Memory
-        ↓
-    Reasoning
-        ↓
-     Action
-        ↓
- Real-world Systems
-</pre>
+          ↓
+     LLMs / VLMs
+          ↓
+        Agents
+          ↓
+    Tools + Memory
+          ↓
+      Reasoning
+          ↓
+        Action
+          ↓
+  Real-world Systems
+```
 
 I'm interested in the layer between
-
-<b>"the model can generate"</b>
-
-and
-
-<b>"the system can actually do."</b>
+**"the model can generate"** and **"the system can actually do."**
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚡ My biggest skill</h3>
+### ⚡ My biggest skill
 
 <h2 align="center">I CAN MAKE IT HAPPEN.</h2>
 
-Give me a problem I don't know how to solve.
-
-I'll learn what I need.
-
-I'll figure out the architecture.
-
-I'll build the first version.
-
-I'll break it.
-
-I'll debug it.
-
+Give me a problem I don't know how to solve.<br>
+I'll learn what I need.<br>
+I'll figure out the architecture.<br>
+I'll build the first version.<br>
+I'll break it.<br>
+I'll debug it.<br>
 I'll ship it.
 
-<p align="center"><b>That's the skill I'm building.</b></p>
+**That's the skill I'm building.**
 
 </td>
 </tr>
@@ -78,236 +61,209 @@ I'll ship it.
 
 <br>
 
-<h2 align="center">🌌 CURRENTLY EXPLORING</h2>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/LLM%20Systems-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Infrastructure-111827?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agent%20Security-111827?style=for-the-badge&logo=shield&logoColor=white"/>
-</p>
+## 🌌 Currently exploring
+
+<img src="https://img.shields.io/badge/LLM%20Systems-111827?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Systems">
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents">
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+<img src="https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics">
+<img src="https://img.shields.io/badge/AI%20Infrastructure-111827?style=for-the-badge&logo=nvidia&logoColor=white" alt="AI Infrastructure">
+<img src="https://img.shields.io/badge/Agent%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white" alt="Agent Security">
+
+</div>
 
 <br>
 
-<h2 align="center">🚀 THINGS I'M BUILDING</h2>
+<div align="center">
 
-<table align="center">
+## 🚀 Things I'm building
 
+</div>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 Krishnos</h3>
-<strong>A personal LLM experiment</strong>
-
-<br><br>
+### 🧠 Krishnos
+**A personal LLM experiment**
 
 Building and understanding language models from the inside rather than treating them as black boxes.
 
-<br><br>
-
-<code>Transformers</code>
-<code>Training</code>
-<code>Inference</code>
-<code>Quantization</code>
+<code>Transformers</code> <code>Training</code> <code>Inference</code> <code>Quantization</code>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🤖 Whisper Piper Friday</h3>
-<strong>Personal AI Agent</strong>
+### 🤖 [Whisper Piper Friday](https://github.com/PrakashMohit/AI_Agent-Whisper-Piper)
+**Personal AI agent**
 
-<br><br>
-
-A local assistant exploring the loop:
-
-<br>
-
-<code>PERCEIVE → THINK → ACT</code>
-
-<br><br>
+A local, voice-first assistant exploring the loop: <code>PERCEIVE → THINK → ACT</code>
 
 Voice · Memory · Tools · Reasoning · Automation
 
+<code>Whisper</code> <code>Piper</code> <code>Ollama</code> <code>Python</code>
+
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🦾 Robotic ARM VLA</h3>
-<strong>Vision → Language → Action</strong>
-
-<br><br>
+### 🦾 Robotic ARM VLA
+**Vision → Language → Action**
 
 Exploring how multimodal models can move from understanding the world to controlling physical systems.
 
-<br><br>
-
-<code>Vision</code>
-<code>VLM</code>
-<code>VLA</code>
-<code>Robotics</code>
+<code>Vision</code> <code>VLM</code> <code>VLA</code> <code>Robotics</code>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>👕 AI Fashion System</h3>
-<strong>From wardrobe to intelligent styling</strong>
+### 👕 AI Fashion System
+**From wardrobe to intelligent styling**
 
-<br><br>
-
-Exploring the complete pipeline:
-
-<br>
-
-<code>GARMENT → TRY-ON → STYLING → RECOMMENDATION</code>
-
-<br><br>
+Exploring the complete pipeline: <code>GARMENT → TRY-ON → STYLING → RECOMMENDATION</code>
 
 Multimodal AI · Computer Vision · Personalization
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔐 AgentSec-RM</h3>
-<strong>AI Agent Security Research</strong>
-
-<br><br>
+### 🔐 AgentSec-RM
+**AI agent security research**
 
 Exploring agent security as a continuous state-estimation problem rather than simply classifying isolated events.
 
-<br><br>
-
-<code>Agents</code>
-<code>Telemetry</code>
-<code>Transformers</code>
-<code>Security</code>
+<code>Agents</code> <code>Telemetry</code> <code>Transformers</code> <code>Security</code>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>⚙️ Automation Systems</h3>
-<strong>Making repetitive workflows disappear</strong>
-
-<br><br>
+### ⚙️ [Automation Systems](https://github.com/PrakashMohit/Scrapers-For-IIC)
+**Making repetitive workflows disappear**
 
 Building automation around scraping, data processing, intelligence extraction, outreach and internal workflows.
 
-<br><br>
-
-<code>Automation</code>
-<code>Python</code>
-<code>LLMs</code>
-<code>Infrastructure</code>
+<code>Automation</code> <code>Python</code> <code>LLMs</code> <code>Infrastructure</code>
 
 </td>
 </tr>
-
 </table>
 
 <br>
 
-<h2 align="center">🧩 HOW I THINK ABOUT BUILDING</h2>
+<div align="center">
 
-<p align="center">
+## 🧩 How I think about building
 
-<pre align="center">
-                     ┌──────────────┐
-                     │     IDEA     │
-                     └──────┬───────┘
-                            ↓
-                  ┌──────────────────┐
-                  │   ARCHITECTURE   │
-                  └────────┬─────────┘
-                           ↓
-                  ┌──────────────────┐
-                  │      MODEL       │
-                  └────────┬─────────┘
-                           ↓
-                  ┌──────────────────┐
-                  │      AGENT       │
-                  └────────┬─────────┘
-                           ↓
-                  ┌──────────────────┐
-                  │      TOOLS       │
-                  └────────┬─────────┘
-                           ↓
-                  ┌──────────────────┐
-                  │   INFRASTRUCTURE │
-                  └────────┬─────────┘
-                           ↓
-                  ┌──────────────────┐
-                  │   REAL WORLD     │
-                  └──────────────────┘
-</pre>
+```text
+ ┌──────────────┐
+ │     IDEA     │
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │ ARCHITECTURE │
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │    MODEL     │
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │    AGENT     │
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │    TOOLS     │
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │INFRASTRUCTURE│
+ └──────┬───────┘
+        ↓
+ ┌──────────────┐
+ │  REAL WORLD  │
+ └──────────────┘
+```
 
-</p>
+**Models are interesting.**<br>
+**Systems built around them are more interesting.**
 
-<p align="center">
-<b>Models are interesting.</b><br>
-<b>Systems built around them are more interesting.</b>
-</p>
+</div>
 
 <br>
 
-<h2 align="center">⚙️ THE STUFF I BUILD WITH</h2>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,tensorflow,opencv,docker,linux,git,github,flask,fastapi,react,vue,sqlite,postgres,nvidia,figma&perline=9" />
-</p>
+## ⚙️ The stuff I build with
 
-<p align="center">
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agents-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CUDA-111827?style=for-the-badge&logo=nvidia&logoColor=76b900"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,pytorch,tensorflow,opencv,nvidia&perline=9&theme=dark" alt="Python, C++, JavaScript, HTML, CSS, PyTorch, TensorFlow, OpenCV, NVIDIA">
+<br>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,sqlite,postgres,docker,linux,git,github,figma&perline=11&theme=dark" alt="Flask, FastAPI, React, Vue, SQLite, PostgreSQL, Docker, Linux, Git, GitHub, Figma">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs">
+<img src="https://img.shields.io/badge/VLMs-111827?style=for-the-badge" alt="VLMs">
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" alt="RAG">
+<img src="https://img.shields.io/badge/Agents-111827?style=for-the-badge" alt="Agents">
+<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" alt="vLLM">
+<img src="https://img.shields.io/badge/CUDA-111827?style=for-the-badge&logo=nvidia&logoColor=76b900" alt="CUDA">
+
+</div>
 
 <br>
 
-<h2 align="center">🏗️ WHERE I'VE BEEN BUILDING</h2>
+<div align="center">
 
-<table align="center">
+## 🏗️ Where I've been building
+
+</div>
+
+<table width="100%">
 <tr>
 <td>
 
-<h3>IIT Madras — Industry Interaction / Placement Ecosystem</h3>
+### IIT Madras — Industry Interaction / Placement Ecosystem
 
-Built automation and intelligence systems around the placement workflow, including:
+Built automation and intelligence systems around the placement workflow:
 
-<ul>
-<li>🔎 Opportunity discovery</li>
-<li>🕷️ Job & post scraping</li>
-<li>🧹 Data cleaning pipelines</li>
-<li>🧠 AI-based extraction</li>
-<li>📧 Recruiter intelligence</li>
-<li>📊 Placement dashboards</li>
-<li>🤖 AI interviewer systems</li>
-</ul>
+- 🔎 Opportunity discovery
+- 🕷️ Job & post scraping
+- 🧹 Data cleaning pipelines
+- 🧠 AI-based extraction
+- 📧 Recruiter intelligence
+- 📊 Placement dashboards
+- 🤖 AI interviewer systems
+
+**Public work:**
+[Placement Intelligence Platform](https://github.com/PrakashMohit/Placement-Intelligence-Platform) ·
+[Scrapers for IIC](https://github.com/PrakashMohit/Scrapers-For-IIC) ·
+[BlueBook Automation](https://github.com/PrakashMohit/IITM_BlueBook_Automation) ·
+[Email Automation](https://github.com/PrakashMohit/IITM-Email_Automation)
 
 </td>
 </tr>
 </table>
 
-<p align="center">
+<div align="center">
+
 <i>The role is temporary. The systems-building mindset isn't.</i>
-</p>
+
+</div>
 
 <br>
 
-<h2 align="center">⚡ BUILDING PRINCIPLES</h2>
+<div align="center">
 
-<table align="center">
+## ⚡ Building principles
+
+</div>
+
+<table>
 <tr>
 <td align="center" width="25%"><h3>🧠</h3><b>Understand</b><br>Don't blindly use abstractions.</td>
 <td align="center" width="25%"><h3>🔨</h3><b>Build</b><br>Ideas become useful when they run.</td>
@@ -318,53 +274,35 @@ Built automation and intelligence systems around the placement workflow, includi
 
 <br>
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+<div align="center">
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PrakashMohit&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashMohit&hide_border=true&theme=transparent&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
-</p>
+## 📊 GitHub activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashMohit&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" />
-</p>
+<img src="./assets/year-stats.svg" alt="Contributions this year" width="100%">
 
 <br>
 
-<h2 align="center">🌐 LET'S CONNECT</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashMohit&layout=compact&langs_count=8&card_width=500&border_radius=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=PLpgSQL,Shell,Procfile" alt="Most used languages">
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:prakashmohit21x@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 <br>
 
-<p align="center">
-<h3 align="center">BUILD → BREAK → LEARN → REBUILD → SHIP</h3>
-</p>
+<div align="center">
 
-<p align="center">
-<b>If I don't know how to build it yet...<br><br>
-I'LL FIGURE IT OUT.<br>
-I'LL MAKE IT HAPPEN.</b>
-</p>
+## 🌐 Let's connect
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
-</p>
+<a href="https://www.linkedin.com/in/prakash-mohit-a59b71259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/prakash_mohit_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:prakashmohit21x@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
+
+### BUILD → BREAK → LEARN → REBUILD → SHIP
+
+**If I don't know how to build it yet...**<br>
+**I'LL FIGURE IT OUT. I'LL MAKE IT HAPPEN.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer" alt="" width="100%">
+
+</div>
